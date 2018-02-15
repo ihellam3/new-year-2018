@@ -11,7 +11,7 @@
     localStorage.popupClosed6 = "1";
   };
   div.id = "$$popup";
-  div.style.cssText = 'max-width:500px;position:fixed;bottom:0;right:0;-moz-border-radius:100px;-moz-box-shadow: 0px 0px 8px #fff;display:block;cursor:pointer;';
+  div.style.cssText = 'max-width:266px;position:fixed;bottom:0;right:0;-moz-border-radius:100px;-moz-box-shadow: 0px 0px 8px #fff;display:block;cursor:pointer;';
   //div.onclick=window.closePopup;
   img.src=baseUrl + "koolshare-new-year-2018.png";
   img.style.cssText = 'width:100%;';
